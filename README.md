@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **React Native**
-
 - 📫 How to reach me **shashiprabha2737@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
