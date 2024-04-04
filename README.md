@@ -23,4 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wednesdaysp&show_icons=true&locale=en" alt="wednesdaysp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wednesdaysp&" alt="wednesdaysp" /></p>
-readme editor tool: https://readme.so/editor
+[readme editor tool: https://readme.so/editor]
