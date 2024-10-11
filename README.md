@@ -31,7 +31,7 @@
 
 
 
-## GSSOC(24) Badges 🪶
+## 🪶 GSSOC(24) Badges 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://github.com/user-attachments/assets/74bce500-f305-411c-97ba-2b47ba029825" width="100px" height="100px" />
 <!--   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
@@ -44,7 +44,7 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> -->
 </div>
 
-## Hactoberfest Badges 🦖
+## 🦖 Hactoberfest(24) Badges 
 
 [![An image of @wednesdaysp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wednesdaysp)](https://holopin.io/@wednesdaysp)
 
