@@ -44,6 +44,10 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> -->
 </div>
 
+## Hactoberfest Badges 🦖
+
+[![An image of @wednesdaysp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wednesdaysp)](https://holopin.io/@wednesdaysp)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
