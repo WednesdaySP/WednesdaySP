@@ -50,7 +50,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wednesdaysp&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false" alt="wednesdaysp" /></p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wednesdaysp&show_icons=true&locale=en&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="wednesdaysp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wednesdaysp&theme=dark&hide_border=false" alt="wednesdaysp" /></p>
