@@ -29,7 +29,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=WednesdaySP&theme=radical&no-frame=false&no-bg=false&margin-w=1) 
 
 
-
 ## 🪶 GSSOC(Ext-24) Badges 
 <div style='display:flex; align-items:center; gap: 10;' align='center'>
 <img src="https://github.com/user-attachments/assets/74bce500-f305-411c-97ba-2b47ba029825" width="120px" height="120px" />
