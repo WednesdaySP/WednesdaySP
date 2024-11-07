@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/mobile-application-tupography-banner-with-mobile-device-symbols-flat-illustration_1284-29498.jpg?w=1380&t=st=1707575966~exp=1707576566~hmac=d141e7d3a0aea101f57ee3a1d73c17ff16a794cedfb9f7f918854e923d0b6a34)](https://rishavchanda.io)
+![6](https://github.com/user-attachments/assets/caab6d39-4073-4d9e-8c07-2ed1ffa8a423)[![MasterHead](https://img.freepik.com/free-vector/mobile-application-tupography-banner-with-mobile-device-symbols-flat-illustration_1284-29498.jpg?w=1380&t=st=1707575966~exp=1707576566~hmac=d141e7d3a0aea101f57ee3a1d73c17ff16a794cedfb9f7f918854e923d0b6a34)](https://rishavchanda.io)
 <h1 align="center">Hii 👋, I'm Shashi Prabha</h1>
 <h3 align="center">A passionate android app and front end developer.</h3>
 <img  align="right"  alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"> 
@@ -37,6 +37,9 @@
  <img src="https://github.com/user-attachments/assets/288e5321-f91c-4a6c-869c-11d00952c486" width="120px" height="120px" />
   <img src="https://github.com/user-attachments/assets/bcd64598-64c4-4eee-9b74-22502fd8c78c" width="120px" height="120px" />
   <img src="https://github.com/user-attachments/assets/2ff52b15-464b-4b1c-a30f-896328490467" width="120px" height="120px" />
+   <img src="https://github.com/user-attachments/assets/ab45541a-faaa-43b7-adc0-3f2d53f8c48c" width="120px" height="120px" />
+
+
 
 </div>
 
