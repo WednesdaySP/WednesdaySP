@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wednesdaysp&label=Profile%20views&color=0e75b6&style=flat" alt="wednesdaysp" /> </p>
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **Open Source Contribution**
 
 - 📫 How to reach me **shashiprabha2737@gmail.com**
 
