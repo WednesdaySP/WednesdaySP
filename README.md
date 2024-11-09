@@ -1,6 +1,6 @@
 [![MasterHead](https://img.freepik.com/free-vector/mobile-application-tupography-banner-with-mobile-device-symbols-flat-illustration_1284-29498.jpg?w=1380&t=st=1707575966~exp=1707576566~hmac=d141e7d3a0aea101f57ee3a1d73c17ff16a794cedfb9f7f918854e923d0b6a34)](https://rishavchanda.io)
 <h1 align="center">Hii 👋, I'm Shashi Prabha</h1>
-<h3 align="center">A passionate android app and front end developer.</h3>
+<h3 align="center">A passionate Cross Platform Application Developer and Frontend Developer.</h3>
 <img  align="right"  alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wednesdaysp&label=Profile%20views&color=0e75b6&style=flat" alt="wednesdaysp" /> </p>
