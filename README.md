@@ -40,7 +40,7 @@
   <img src="https://github.com/user-attachments/assets/2ff52b15-464b-4b1c-a30f-896328490467" width="125px" height="125px" />
    <img src="https://github.com/user-attachments/assets/ab45541a-faaa-43b7-adc0-3f2d53f8c48c" width="125px" height="125px" />
      <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="150px" height="150px" />
-<!--   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /> -->
+
 
 </div>
 
