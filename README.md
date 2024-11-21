@@ -31,16 +31,14 @@
 ## 🪶 GSSOC(Ext-24) Badges 
 <div style='display:flex; align-items:center; gap: 10;' align='center'>
   <img src="https://github.com/user-attachments/assets/b34e3ec1-fb40-4576-ad1a-60144697e8bb" width="120px" height="120px" />
-<img src="https://github.com/user-attachments/assets/74bce500-f305-411c-97ba-2b47ba029825" width="125px" height="125px" />
- <img src="https://github.com/user-attachments/assets/29f9614e-b8d6-428a-b38c-9f4f5d29b661" width="125px" height="125px" />
- <img src="https://github.com/user-attachments/assets/0f3b975d-a704-4930-996f-d0eb8c677b02" width="125px" height="125px" />
- <img src="https://github.com/user-attachments/assets/288e5321-f91c-4a6c-869c-11d00952c486" width="125px" height="125px" />
+  <img src="https://github.com/user-attachments/assets/74bce500-f305-411c-97ba-2b47ba029825" width="125px" height="125px" />
+  <img src="https://github.com/user-attachments/assets/29f9614e-b8d6-428a-b38c-9f4f5d29b661" width="125px" height="125px" />
+  <img src="https://github.com/user-attachments/assets/0f3b975d-a704-4930-996f-d0eb8c677b02" width="125px" height="125px" />
+  <img src="https://github.com/user-attachments/assets/288e5321-f91c-4a6c-869c-11d00952c486" width="125px" height="125px" />
   <img src="https://github.com/user-attachments/assets/bcd64598-64c4-4eee-9b74-22502fd8c78c" width="125px" height="125px" />
   <img src="https://github.com/user-attachments/assets/2ff52b15-464b-4b1c-a30f-896328490467" width="125px" height="125px" />
-   <img src="https://github.com/user-attachments/assets/ab45541a-faaa-43b7-adc0-3f2d53f8c48c" width="125px" height="125px" />
-     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="150px" height="150px" />
-
-
+  <img src="https://github.com/user-attachments/assets/ab45541a-faaa-43b7-adc0-3f2d53f8c48c" width="125px" height="125px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="150px" height="150px" />
 </div>
 
 ## 🦖 Hactoberfest(24) Badges 
