@@ -42,7 +42,6 @@
 </div>
 
 ## 🦖 Hactoberfest(24) Badges 
-
 [![An image of @wednesdaysp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wednesdaysp)](https://holopin.io/@wednesdaysp)
 
 ### ✍️ Random Dev Quote
