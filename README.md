@@ -3,10 +3,13 @@
 <h3 align="center">A passionate Cross Platform Application Developer and Frontend Developer.</h3>
 <img  align="right"  alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wednesdaysp&label=PROFILE+VIEWS&color=0e75b6&style=plastic&abbreviated=true" alt="WednesdaySP" /> </p>
+
 - 🔭 I’m currently working on **Open Source Contribution** and **Flutter**.
+
 - 📫 How to reach me **shashiprabha2737@gmail.com**.
 - 💬 Ask me about **Flutter**, **Dart**, **Java**, and **Web Development**.
 - ⚡ Fun Fact: When I’m not coding, you can find me experimenting with new recipes in the kitchen or jamming to my favorite music!🎵.
+
 ## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/shashi-prabha-711237241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashi-prabha-711237241/" height="30" width="40" /></a>
