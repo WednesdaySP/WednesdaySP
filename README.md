@@ -40,7 +40,6 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="150px" height="150px" />
 </div>
 
-
 ## 🦖 Hactoberfest(24) Badges 
 [![An image of @wednesdaysp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wednesdaysp)](https://holopin.io/@wednesdaysp)
 
