@@ -11,7 +11,7 @@
 - 💬 Ask me about **Flutter**, **Dart**, **Java**, and **Web Development**.
   
 - ⚡ Fun Fact: When I’m not coding, you can find me experimenting with new recipes in the kitchen or jamming to my favorite music!🎵.
-  
+
 ## Connect with me:
 
 <p align="left">
