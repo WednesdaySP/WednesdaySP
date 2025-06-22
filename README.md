@@ -53,5 +53,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wednesdaysp&show_icons=true&locale=en&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="wednesdaysp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wednesdaysp&theme=dark&hide_border=false" alt="wednesdaysp" /></p>
+
+### 🔥 Let's Build Something Amazing Together!
+- 🌟 **Star** my repositories if you like my work!
+- 🤝 **Collaborate** on open-source projects.
+- 📩 **Reach out** for freelance opportunities!
 <!---readme editor tool: https://readme.so/editor--->
 
