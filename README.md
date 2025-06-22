@@ -45,7 +45,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 ## 🦖 Hactoberfest(24) Badges 
 [![An image of @wednesdaysp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wednesdaysp)](https://holopin.io/@wednesdaysp)
 
-### ✍️ Random Dev Quote
+### ✍️ Today's Dev Wisdom
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wednesdaysp&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false" alt="wednesdaysp" /></p>
