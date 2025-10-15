@@ -39,7 +39,6 @@
 <a href="https://clickup.com/lp?utm_source=google&utm_medium=cpc&utm_campaign=gs_cpc_arlv_nnc_brand_trial_all-devices_troas_lp_x_all-departments_x_brand&utm_content=all-countries_kw-target_text_all-industries_all-features_all-use-cases_clickup_features_productivity_broad&utm_term=b_clickup%20productivity&utm_creative=657686021884_BrandChampion-03072023_rsa&utm_custom1=&utm_custom2=&gad_source=1&gclid=CjwKCAjwqf20BhBwEiwAt7dtdaScXgyL-F_yprC9uXN_qL_kRXmNHA-ZoiBnSV-R4U_vwPQ2JKjuxBoCozYQAvD_BwE" target="_blank" rel="noreferrer"> <img src="https://i.scdn.co/image/ab6761610000e5eb85f93be32018d299b620bcf3" alt="clickup" width="40" height="40"/> </a> 
 </p>
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=WednesdaySP&theme=radical&no-frame=false&no-bg=false&margin-w=1) 
 
