@@ -72,4 +72,3 @@
 - 🤝 **Collaborate** on open-source projects.
 - 📩 **Reach out** for freelance opportunities!
 <!---readme editor tool: https://readme.so/editor--->
-
