@@ -14,6 +14,11 @@
 
 <!---<a href="https://www.buymeacoffee.com/shashiprabha" target="_blank"><img align="center" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="30" /></a> --->
 
+### 🔥 Let's Build Something Amazing Together!
+- 🌟 **Star** my repositories if you like my work!
+- 🤝 **Collaborate** on open-source projects.
+- 📩 **Reach out** for freelance opportunities!
+
 ## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/shashi-prabha-711237241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashi-prabha-711237241/" height="30" width="40" /></a>
@@ -67,8 +72,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wednesdaysp&theme=dark&hide_border=false" alt="wednesdaysp" /></p>
 
-### 🔥 Let's Build Something Amazing Together!
-- 🌟 **Star** my repositories if you like my work!
-- 🤝 **Collaborate** on open-source projects.
-- 📩 **Reach out** for freelance opportunities!
+
 <!---readme editor tool: https://readme.so/editor--->
