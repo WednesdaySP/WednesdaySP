@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sprabha2300@gmail.com**.
 
-- 💬 Ask me about **Flutter**, **Dart**, **Java**, and **Web Development** and **App Development**.
+- 💬 Ask me about **Flutter**, **Dart**, **Java**, **Web Development** and **App Development**.
 
 - ⚡ Fun Fact: When I’m not coding, you can find me experimenting with new recipes in the kitchen or jamming to my favorite music!🎵.
 
