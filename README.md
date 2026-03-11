@@ -21,27 +21,28 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/shashi-prabha-711237241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashi-prabha-711237241/" height="30" width="40" /></a>
-<a href="https://instagram.com/pearl_white003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pearl_white003" height="30" width="40" /></a>
-<a href="https://twitter.com/ShashiPrab14764" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pearl_white003" height="30" width="40" /></a>
-<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://github.com/user-attachments/assets/866ec66e-3ef0-4c48-918a-7734aaecb658" alt="shashi_prabha" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/shashi-prabha-711237241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashi-prabha-711237241/" height="50" width="50" /></a>
+<a href="https://instagram.com/pearl_white003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pearl_white003" height="50" width="50" /></a>
+<a href="https://twitter.com/ShashiPrab14764" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pearl_white003" height="50" width="50" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://github.com/user-attachments/assets/866ec66e-3ef0-4c48-918a-7734aaecb658" alt="shashi_prabha" height="50" width="50"/></a>
 </p>
 
 ## Languages and Tools:
 <p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>  </a>  
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/2ad7cb66-8011-4ea4-801e-8ba12069f9b9" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="40" height="40"/> </a>  
-<a href="https://clickup.com/lp?utm_source=google&utm_medium=cpc&utm_campaign=gs_cpc_arlv_nnc_brand_trial_all-devices_troas_lp_x_all-departments_x_brand&utm_content=all-countries_kw-target_text_all-industries_all-features_all-use-cases_clickup_features_productivity_broad&utm_term=b_clickup%20productivity&utm_creative=657686021884_BrandChampion-03072023_rsa&utm_custom1=&utm_custom2=&gad_source=1&gclid=CjwKCAjwqf20BhBwEiwAt7dtdaScXgyL-F_yprC9uXN_qL_kRXmNHA-ZoiBnSV-R4U_vwPQ2JKjuxBoCozYQAvD_BwE" target="_blank" rel="noreferrer"> <img src="https://i.scdn.co/image/ab6761610000e5eb85f93be32018d299b620bcf3" alt="clickup" width="40" height="40"/> </a> 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>  </a>  
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>  
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>  
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/2ad7cb66-8011-4ea4-801e-8ba12069f9b9" alt="bootstrap" width="50" height="50"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="50" height="50"/> </a>  
+<a href="https://clickup.com/lp?utm_source=google&utm_medium=cpc&utm_campaign=gs_cpc_arlv_nnc_brand_trial_all-devices_troas_lp_x_all-departments_x_brand&utm_content=all-countries_kw-target_text_all-industries_all-features_all-use-cases_clickup_features_productivity_broad&utm_term=b_clickup%20productivity&utm_creative=657686021884_BrandChampion-03072023_rsa&utm_custom1=&utm_custom2=&gad_source=1&gclid=CjwKCAjwqf20BhBwEiwAt7dtdaScXgyL-F_yprC9uXN_qL_kRXmNHA-ZoiBnSV-R4U_vwPQ2JKjuxBoCozYQAvD_BwE" target="_blank" rel="noreferrer"> <img src="https://i.scdn.co/image/ab6761610000e5eb85f93be32018d299b620bcf3" alt="clickup" width="50" height="50"/> </a> 
+  <a href="https://clarity.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/ce9c9dc7-43cc-4acc-8a5d-a9cd8811cc3d" alt="clarity" width="50" height="50"/> </a> 
 </p>
 
 ## 🏆 GitHub Trophies
