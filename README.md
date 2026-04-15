@@ -22,12 +22,25 @@
 - 📩 **Reach out** for freelance opportunities!
 
 ## Connect with me:
+
 <p align="left">
-<a href="https://linkedin.com/in/shashi-prabha-711237241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashi-prabha-711237241/" height="50" width="50" /></a>
-<a href="https://instagram.com/pearl_white003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pearl_white003" height="50" width="50" /></a>
-<a href="https://twitter.com/ShashiPrab14764" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pearl_white003" height="50" width="50" /></a>
-<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://github.com/user-attachments/assets/866ec66e-3ef0-4c48-918a-7734aaecb658" alt="shashi_prabha" height="50" width="50"/></a>
+  <a href="https://linkedin.com/in/shashi-prabha-711237241/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" style="margin: 0 12px;" />
+  </a>
+
+  <a href="https://instagram.com/pearl_white003">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="50" style="margin: 0 12px;" />
+  </a>
+
+  <a href="https://twitter.com/ShashiPrab14764">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="50" style="margin: 0 12px;" />
+  </a>
+
+  <a href="https://discord.com/channels/@me">
+    <img src="https://github.com/user-attachments/assets/866ec66e-3ef0-4c48-918a-7734aaecb658" height="50" style="margin: 0 12px;" />
+  </a>
 </p>
+
 
 
 ## Languages and Tools:
