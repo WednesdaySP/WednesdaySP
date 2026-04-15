@@ -62,6 +62,7 @@
   <a href="https://clickup.com/"><img src="https://i.scdn.co/image/ab6761610000e5eb85f93be32018d299b620bcf3" height="50" style="margin:10px;" /></a>
   <a href="https://clarity.microsoft.com/"><img src="https://github.com/user-attachments/assets/ce9c9dc7-43cc-4acc-8a5d-a9cd8811cc3d" height="50" style="margin:10px;" /></a>
   <a href="https://sentry.io/welcome/"><img  alt="image" src="https://github.com/user-attachments/assets/449c0972-5475-4145-afbe-f846d8adcb75" height="50" style="margin:10px;" /></a>
+<a href="https://codemagic.io/start/"><img  alt="image" src="https://github.com/user-attachments/assets/183fc0b8-6869-4756-b587-36f61e299bde"  height="50" style="margin:10px;" /></a>
 
 </p>
 
